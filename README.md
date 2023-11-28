@@ -10,5 +10,3 @@ I love the entire process of developing iOS applications. I love the challenge o
 
 ## 🔭 I'm currently working on
 - Capstone project that I started building during my iOS Bootcamp with Kodeco (aka Ray Wenderlich).
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcen7&layout=compact)](https://github.com/dcen7)
